@@ -1,3 +1,11 @@
+"""
+Este modelo tiene mucha importancia ya que fue la idea con la cual postule al API de OpenAI.
+
+La idea es que un comicficador devuelva el texto entregado pero con una serie de modificaciones
+como negrita, cursiva, destacado y cambio de color, fuente y tamaño de letra dependiendo del contexto.
+De esta manera el texto sera mucho mas divertido e "interactivo" para el usuario.
+"""
+
 import os
 import openai
 
