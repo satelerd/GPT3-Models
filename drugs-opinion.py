@@ -1,3 +1,9 @@
+"""
+Este modelo demuestra la capacidad que tiene GPT-3 para generar conversaciones sobre
+el uso de drogas. Es interesante la idea de intentar que GPT-3 pueda intentar explicar
+lo que se puede llegar a sentir bajo los efectos de ciertas drogas.
+"""
+
 import os
 import openai
 
