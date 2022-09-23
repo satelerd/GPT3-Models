@@ -1,5 +1,5 @@
 # GPT3-Models
-Archive of some gpt3 models that I've made
+Archive of some gpt3 prompts that I've made
 
 ### List of all models
 * Galia Models (This is how [@Galia_III](https://twitter.com/Galia_III) tweets)
